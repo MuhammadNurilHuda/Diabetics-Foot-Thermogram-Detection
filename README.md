@@ -1,6 +1,6 @@
 # MachineLearningProject
-Untuk praktikum Machine Learning A
+>Untuk praktikum Machine Learning A
 
-*Muhammad Nuril Huda (2018-003)
+- Muhammad Nuril Huda (2018-003)
 
-*Abdi Zaki Rahmatullah (2018-013)
+- Abdi Zaki Rahmatullah (2018-013)
