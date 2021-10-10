@@ -3,7 +3,7 @@
 > - Muhammad Nuril Huda (2018-003)
 > - Abdi Zaki Rohmatulloh (2018-013)
 
-[logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fieee-dataport.org%2Fopen-access%2Fplantar-thermogram-database-study-diabetic-foot-complications&psig=AOvVaw0g7HYZ_YXpXbkQqW2Vun56&ust=1633973251985000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNirw-2uwPMCFQAAAAAdAAAAABAJ)
+![logo](https://user-images.githubusercontent.com/64600830/136706898-9cd53d25-7103-4d5b-9efc-8f610c710f27.png)
 
 ## Acknowledgements
 
