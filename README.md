@@ -17,6 +17,8 @@
 
 - Penambahan model CNN
 
+- Overfitting Handling
+
 
 ## Authors
 
