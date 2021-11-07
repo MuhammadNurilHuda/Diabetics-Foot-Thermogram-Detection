@@ -10,8 +10,16 @@
  - [Dataset](https://ieee-dataport.org/open-access/plantar-thermogram-database-study-diabetic-foot-complications)
  - [Artikel rujukan](https://doi.org/10.1016/j.compbiomed.2021.104838)
 
+## UPDATE !!!
+
+### 7 November 2021 
+- Penambahan Dataset
+
+- Penambahan model CNN
+
 
 ## Authors
 
 - [@MuhammadNurilHuda](https://github.com/MuhammadNurilHuda)
 - [@abdizakiy](https://github.com/abdizakiy) 
+
