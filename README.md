@@ -19,6 +19,13 @@
 
 - Overfitting Handling
 
+### 27 November 2021 
+- Update V2
+
+- Color mode grayscale
+
+- Hypertuning parameter
+
 
 ## Authors
 
