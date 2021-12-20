@@ -26,6 +26,9 @@
 
 - Hypertuning parameter
 
+### 20 Desember 2021 
+- Update use resnet50
+
 
 ## Authors
 
