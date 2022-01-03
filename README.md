@@ -29,6 +29,8 @@
 ### 20 Desember 2021 
 - Update use resnet50
 
+### 2 Januari 2022
+- Deploy Heroku : https://diabeticplantarthermogram.herokuapp.com
 
 ## Authors
 
